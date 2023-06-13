@@ -1,0 +1,10 @@
+* LispQR
+
+QR Code encoding using Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mare5x/LispQR.git   |
+| commit  | 91eb57d  |
+| systems | LispQR |
+|---------+-------------------------------------------|
+
