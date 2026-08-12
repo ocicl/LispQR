@@ -7,4 +7,4 @@ QR Code encoding using Common Lisp.
 | commit  | 91eb57d                                  |
 | systems | lispqr                                   |
 |---------+------------------------------------------|
- 
+  
